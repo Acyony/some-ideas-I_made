@@ -1,9 +1,3 @@
-![Alcione]{x-special/nautilus-clipboard
-copy
-file:///home/user/Downloads/logo/Alcione%20-%20Logo%201.svg
-}
-
-
 
 # some-ideas-I_made
 Here you will find some ideas and tests that I did. Feel free to leave your contribution.
